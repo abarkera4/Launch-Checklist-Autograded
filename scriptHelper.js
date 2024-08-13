@@ -83,8 +83,6 @@ function addDestinationInfo(document, name, diameter, star, distance, moons, ima
         launchStatus.innerHTML = "Shuttle is Ready for Launch";
         launchStatus.style.color = "green";
     }
-
-
  }
  
  async function myFetch() {
