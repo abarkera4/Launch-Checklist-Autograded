@@ -25,3 +25,4 @@ window.addEventListener("load", function() {
         formSubmission(document, list, pilot.value, copilot.value, fuelLevel.value, cargoLevel.value);
     })
  })
+ 
